@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parthapsarmah14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19lhYu83qG0gf5ZSbjcaAJ2U0uv1Qq8av/view?usp=sharing](https://drive.google.com/file/d/19lhYu83qG0gf5ZSbjcaAJ2U0uv1Qq8av/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14sALeaqNXGNnBABFlVqp408IaBE8t2b8/view?usp=sharing] (https://drive.google.com/file/d/14sALeaqNXGNnBABFlVqp408IaBE8t2b8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
