@@ -1,27 +1,139 @@
-<h1 align="center">Hi 👋, I'm Partha P Sarmah</h1>
-<h3 align="center">Seeking an entry level in Software Developer position. Detail-oriented and dedicated to improving skills through hands-on learning and development work. Adept at using HTML, Javascript and other programming languages to produce clean code. Well organized and collaborative team player with effective communication and analytical abilities.</h3>
+<!-- ════════════════════════════ header ════════════════════════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tbug014&label=Profile%20views&color=0e75b6&style=flat" alt="tbug014" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=170&section=header&text=Partha%20Protim%20Sarmah&fontSize=40&fontColor=E8E8E8&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20Data%20Science%20%C2%B7%20UI%2FUX%20Design&descSize=15&descAlignY=66" width="100%" alt="Partha Protim Sarmah" />
 
-<p align="left"> <a href="https://twitter.com/parthaps014" target="blank"><img src="https://img.shields.io/twitter/follow/parthaps014?logo=twitter&style=for-the-badge" alt="parthaps014" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1400&color=E95420&center=true&vCenter=true&width=600&height=32&lines=%24+role+%E2%86%92+software+engineer;%24+focus+%E2%86%92+data+science+%2B+clean%2C+reliable+code;%24+previously+%E2%86%92+1+year+of+UI%2FUX+design+in+Figma" alt="$ role → software engineer" />
 
-- 🌱 I’m currently learning **MERN Stack, Java**
+</div>
 
-- 📫 How to reach me **parthapsarmah14@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14sALeaqNXGNnBABFlVqp408IaBE8t2b8/view?usp=sharing] 
+## 01 &nbsp;·&nbsp; About Me &nbsp;<sub>自己紹介</sub>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parthaps014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthaps014" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthaps14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthaps14" height="30" width="40" /></a>
-<a href="https://instagram.com/parthaprotim.pps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parthaprotim.pps" height="30" width="40" /></a>
-</p>
+I came to engineering through design. For a year I worked as a **UI/UX Designer at Druooz Pvt. Ltd.**, leading end-to-end design for a cab-booking platform — rider app, driver app, company website and an internal ERP — from first wireframe to developer-ready prototype in Figma.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Working that closely with engineers pulled me to the other side of the handoff. Today I focus on **software engineering and data science**: writing clean, well-structured code in Python and Java, and using data to answer real questions — while keeping the designer's habit of building for the person on the other side of the screen.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tbug014&show_icons=true&locale=en&layout=compact" alt="tbug014" /></p>
+```text
+partha@tbug014:~$ neofetch
+──────────────────────────────────────────────────────
+  name     Partha Protim Sarmah
+  focus    Software Engineering · Data Science
+  prev     UI/UX Designer · Druooz Pvt. Ltd.     2024–25
+  edu      B.Tech CSE · CIT Kokrajhar            2020–23
+           Diploma CSE · Nalbari Polytechnic     2017–20
+  os       Linux
+  design   Figma · wireframe → prototype → handoff
+  speaks   English · Assamese · Hindi
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbug014&" alt="tbug014" /></p>
+<br/>
 
+## 02 &nbsp;·&nbsp; Tech Stack &nbsp;<sub>技術</sub>
+
+| Category | Stack |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=E8E8E8) ![Java](https://img.shields.io/badge/Java-1E1E1E?style=flat-square&logo=openjdk&logoColor=E8E8E8) ![C](https://img.shields.io/badge/C-1E1E1E?style=flat-square&logo=c&logoColor=E8E8E8) ![C++](https://img.shields.io/badge/C%2B%2B-1E1E1E?style=flat-square&logo=cplusplus&logoColor=E8E8E8) ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=E8E8E8) ![Solidity](https://img.shields.io/badge/Solidity-1E1E1E?style=flat-square&logo=solidity&logoColor=E8E8E8) |
+| **Frontend / Design** | ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=E8E8E8) ![HTML](https://img.shields.io/badge/HTML-1E1E1E?style=flat-square&logo=html5&logoColor=E8E8E8) ![CSS](https://img.shields.io/badge/CSS-1E1E1E?style=flat-square&logo=css&logoColor=E8E8E8) |
+| **Databases / Tools** | ![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=flat-square&logo=mysql&logoColor=E8E8E8) ![Git](https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=E8E8E8) ![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=flat-square&logo=github&logoColor=E8E8E8) |
+| **Environments / OS** | ![Linux](https://img.shields.io/badge/Linux-1E1E1E?style=flat-square&logo=linux&logoColor=E8E8E8) |
+
+<sub>`currently exploring` &nbsp;→&nbsp; data science workflows in Python · agile, full-lifecycle software development</sub>
+
+<br/>
+
+## 03 &nbsp;·&nbsp; Featured Projects &nbsp;<sub>作品</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Cab Booking Platform**<br/>
+<sub>Product Design · Druooz Pvt. Ltd.</sub>
+
+End-to-end UI/UX for a ride-hailing ecosystem — rider app, driver app and marketing website — built as one cohesive design language, responsive across mobile, tablet and desktop.
+
+`Figma` `Prototyping` `Responsive UI` `Design Handoff`
+
+[User App Case Study ↗](https://drive.google.com/file/d/1IHZAC-El3Jo5vn6qFVs09m_YU5UCsa92/view?usp=sharing) &nbsp;·&nbsp; [Driver App Case Study ↗](https://drive.google.com/file/d/1Ton5fyakUJXup4biVr2Y6FIW3zADtE9x/view?usp=sharing)
+
+</td>
+<td width="50%" valign="top">
+
+**ERP Operations Suite**<br/>
+<sub>Internal Tooling · Druooz Pvt. Ltd.</sub>
+
+Redesigned the company's ERP for day-to-day operations — clearer information hierarchy and streamlined flows that made internal teams faster at managing the business.
+
+`Figma` `Requirements Gathering` `Information Architecture` `Workflow Design`
+
+<!-- Add a case-study link here if you have one -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Electronic Health Records**<br/>
+<sub>Healthcare · Blockchain</sub>
+
+A system for storing and sharing patient health records securely, giving patients and providers a single, tamper-resistant history of care.
+
+`Solidity` `Blockchain` `JavaScript`
+
+<!-- Replace with the exact repository URL -->
+[Repository ↗](https://github.com/TBug014?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+**Library Automation System**<br/>
+<sub>Systems · Automation</sub>
+
+Automates core library operations — cataloguing, book issue and return, member records and due-date tracking — replacing manual registers with one searchable system.
+
+`Python` `MySQL`
+
+<!-- Replace with the exact repository URL -->
+[Repository ↗](https://github.com/TBug014?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<sub>More experiments and works in progress → [all repositories](https://github.com/TBug014?tab=repositories)</sub>
+
+<br/>
+
+## 04 &nbsp;·&nbsp; GitHub Activity &nbsp;<sub>活動</sub>
+
+<div align="center">
+
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TBug014&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=121212&title_color=E95420&icon_color=E95420&text_color=C9C9C9" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TBug014&layout=compact&langs_count=6&hide_border=true&bg_color=121212&title_color=E95420&text_color=C9C9C9" />
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=TBug014&hide_border=true&background=121212&stroke=2A2A2A&ring=E95420&fire=E95420&currStreakNum=E8E8E8&sideNums=E8E8E8&currStreakLabel=E95420&sideLabels=C9C9C9&dates=7A7A7A" />
+
+</div>
+
+<br/>
+
+## 05 &nbsp;·&nbsp; Get in Touch &nbsp;<sub>連絡先</sub>
+
+Open to software engineering and data science roles, collaborations, and conversations about design-minded engineering.
+
+[![email](https://img.shields.io/badge/email-parthapsarmah14%40gmail.com-1E1E1E?style=flat-square&labelColor=E95420)](mailto:parthapsarmah14@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-parthaps14-1E1E1E?style=flat-square&labelColor=E95420)](https://www.linkedin.com/in/parthaps14)
+[![github](https://img.shields.io/badge/github-TBug014-1E1E1E?style=flat-square&labelColor=E95420)](https://github.com/TBug014)
+
+<br/>
+
+<!-- ════════════════════════════ footer ════════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E95420&height=2&section=footer" width="100%" alt="" />
+
+<sub><code>partha@tbug014:~$ exit</code> &nbsp;·&nbsp; ありがとう — thanks for stopping by</sub>
+
+</div>
